@@ -8,7 +8,7 @@ Version Control Exercise Using Bikeshare Project
 
 ### Description
 This project is to practice version control exercises as learnt from Udacity's Nanodegree course "Programming for Data Science". Using the Bikeshare
-project files, i will excersise and practice what i have learnt in Version Control module using Github
+project files, i will excercise and practice what i have learnt in Version Control module using Github
 
 ### Files used
 bikeshare.py
