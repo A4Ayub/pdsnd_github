@@ -1,17 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+14th November 2021
 
 ### Project Title
-Replace the Project Title
+Version Control Exercise Using Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project is to practice version control exercises as learnt from Udacity's Nanodegree course "Programming for Data Science". Using the Bikeshare
+project files, i will excersise and practice what i have learnt in Version Control module using Github
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Besides the Nanodegree course materials and references, i also got some tips and pointers from https://www.atlassian.com/git/tutorials/using-branches
