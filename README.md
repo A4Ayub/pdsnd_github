@@ -13,7 +13,7 @@ project files, i will excercise and practice what i have learnt in Version Contr
 Once i complete the project, i will submit it to Udacity in order to earn my Nanodegree project.
 
 ### Files used
-bikeshare.py
+bikeshare.py - All the code for filtering is found in this file. It has six functions in total.
 
 ### Credits
 Besides the Nanodegree course materials and references, i also got some tips and pointers from https://www.atlassian.com/git/tutorials/using-branches
