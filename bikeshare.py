@@ -214,7 +214,7 @@ def user_stats(df):
         print("The common year of birth is {}".format(df["Birth Year"].mode()[0].astype(str).split(".")[0]))
 
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\Executing your code too %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 def main():
