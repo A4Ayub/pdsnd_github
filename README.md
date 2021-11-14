@@ -17,3 +17,5 @@ bikeshare.py
 
 ### Credits
 Besides the Nanodegree course materials and references, i also got some tips and pointers from https://www.atlassian.com/git/tutorials/using-branches
+
+When doing the bikeshare project i would also wish to thank the link Picked from the https://stackoverflow.com/questions/12332975/installing-python-module-within-code from which i got the solution on how to install python module from within code
